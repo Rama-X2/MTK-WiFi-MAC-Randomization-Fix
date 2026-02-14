@@ -672,6 +672,7 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+<<<<<<< HEAD
 
 Copyright (C) 2026 Rama-X2
 Project Link: https://github.com/Rama-X2/thermal-breaker-miyabi-core
@@ -688,3 +689,5 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org>.
+=======
+>>>>>>> e6b1d437ff69f4c11401f97cae7445e89a3952a3
