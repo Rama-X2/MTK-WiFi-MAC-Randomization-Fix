@@ -1,0 +1,7 @@
+id=mtk-wifi-mac-randomization-fix
+name=MTK WiFi MAC Randomization Fix
+version=v1.0.0
+versionCode=100
+author=Rama-X2
+description=Disable or reduce WiFi MAC randomization on MTK Helio G25 devices (Android 13 SuperiorOS).
+updateJson=https://raw.githubusercontent.com/Rama-X2/MTK-WiFi-MAC-Randomization-Fix/main/update.json
